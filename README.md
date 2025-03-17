@@ -1,4 +1,4 @@
-## Hi there 👋
+## Un poco de mi 👋
 
 <!--
 **Daaviiidd/daaviiidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +12,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Fun fact: ...
 -->
+- 🔭 Alumno en prácticas de Zaitec
+- 🌱 Formación Superior de Desarrollador de Aplicaicones Multiplataforma 
+- 😄 Con muchas ganas de aprender
+- 📫 Partimos desde 0
+- 🤔 .....(próximanente) 
+  
